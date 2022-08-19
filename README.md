@@ -1,5 +1,6 @@
-# extrinsic2pyramid
-Visualize Camera's Pose Using Extrinsic Parameter by Plotting Pyramid Model on 3D Space
+# visualize_camera_configs
+
+Visualize Camera's Pose Using Json file containing Extrinsic Parameters by Plotting Pyramid Model on 3D Space
 
 ![img](./images/img.png)
 
